@@ -1,0 +1,908 @@
+
+> web_scrapping@1.0.0 dev
+> env-cmd -f ./config/dev.env node ./app.js
+
+4
+4
+4
+4
+{
+  n: 1,
+  name: '🎧🎶Music Archive🗂',
+  type: 'CHANNEL',
+  category: 'Musique',
+  tags: 'download free music;telecharger musique',
+  link: 't.me/canal_musicarchive',
+  nbr: '16.25K'
+}
+{
+  n: 2,
+  name: 'Fréquence Trading',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'trading;trading forex;money;copytrading;signaux trading',
+  link: 't.me/traderprosignal',
+  nbr: '5.17K'
+}
+{
+  n: 3,
+  name: 'Digital marketing & Growth hacking',
+  type: 'CHANNEL',
+  category: 'Marketing',
+  tags: 'marketing;entreprenariat;buisness en ligne;reseaux sociaux',
+  link: 't.me/marketingdigital237',
+  nbr: '2.32K'
+}
+{
+  n: 4,
+  name: 'ASANA SANTÉ',
+  type: 'CHANNEL',
+  category: 'Développement personnel',
+  tags: 'coachings;yoga;recettes minceur',
+  link: 't.me/asanaofficiel',
+  nbr: '1.9K'
+}
+{
+  n: 5,
+  name: 'Séries/Film 100% gratuit',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'films;series;streaming',
+  link: 't.me/seriesfilmsgratuit',
+  nbr: '158'
+}
+{
+  n: 6,
+  name: 'Designers Paradise ‍',
+  type: 'CHANNEL',
+  category: 'Art & Design',
+  tags: 'infographie;graphisme;design;téléchargement',
+  link: 't.me/designersparadise',
+  nbr: '192'
+}
+{
+  n: 7,
+  name: '🥇Chat actif : Gagner ses paris',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: 'prono;pronos;paris sportif;pronostic;chay',
+  link: 't.me/pronoclubconv',
+  nbr: '1.31K'
+}
+{
+  n: 8,
+  name: '🎬Films-séries Archive 🗂',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'film serie archive;films serie archive;film série archive;telegram;canal telegram',
+  link: 't.me/filmseriesarchive',
+  nbr: '39.68K'
+}
+{
+  n: 9,
+  name: 'GO-Trading - FR',
+  type: 'GROUPE',
+  category: 'Economics & Finance',
+  tags: 'trading;forex;crypto;investissement;finance',
+  link: 't.me/gotradingclub',
+  nbr: '2.32K'
+}
+{
+  n: 10,
+  name: '🇯🇵JapAnime Archive™',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/japanime_archive',
+  nbr: '6.13K'
+}
+{
+  n: 11,
+  name: 'L’académie du trading - formation et signaux de trading',
+  type: 'CHANNEL',
+  category: 'Affaires & Startups',
+  tags: 'forex;trading;copy trading;crypto;bitcoin',
+  link: 't.me/francetrade',
+  nbr: '19.43K'
+}
+{
+  n: 12,
+  name: 'Z©NE_TECH™',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: 'challenge;lifetime free',
+  link: 't.me/zone_tuto_tech',
+  nbr: '2.78K'
+}
+{
+  n: 13,
+  name: 'Dealroko',
+  type: 'CHANNEL',
+  category: 'Technologie',
+  tags: 'bonplan;hightech;promo;concours;offres',
+  link: 't.me/dealroko',
+  nbr: '7.94K'
+}
+{
+  n: 14,
+  name: 'App-Log Archive™',
+  type: 'CHANNEL',
+  category: 'Jeux & Applications',
+  tags: '',
+  link: 't.me/apkmodx',
+  nbr: '7.31K'
+}
+{
+  n: 15,
+  name: '꧁ Movies & Series ꧂',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/moviesandseriesfr',
+  nbr: '35.18K'
+}
+{
+  n: 16,
+  name: 'CINÉ + HORREUR',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'films horreur',
+  link: 't.me/cine_horreur',
+  nbr: '8.05K'
+}
+{
+  n: 17,
+  name: '🔵 10 Secrets pour gagner 🔴 : Prono.Club | Pronoclub',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'pronostic;paris sportif;pronoclub;nb9corp',
+  link: 't.me/teampronoclub',
+  nbr: '14.71K'
+}
+{
+  n: 18,
+  name: 'KING ANIME PRO',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/king_anime_pro',
+  nbr: '1.34K'
+}
+{
+  n: 19,
+  name: '️ Assistance informatique',
+  type: 'GROUPE',
+  category: 'Autre',
+  tags: 'informatique;aide;assistance;francais;technologie',
+  link: 't.me/helpinformatique',
+  nbr: '3.19K'
+}
+{
+  n: 20,
+  name: '𝙵𝚒𝚕𝚖𝚜 𝚊𝚗𝚒𝚖𝚎𝚛',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'fiilm;films;animer;dessin animer;video',
+  link: 't.me/film_animer',
+  nbr: '1.08K'
+}
+{
+  n: 21,
+  name: 'JOVITECH Forum',
+  type: 'GROUPE',
+  category: 'Technologie',
+  tags: '',
+  link: 't.me/jovitechforum',
+  nbr: '239'
+}
+{
+  n: 22,
+  name: 'FinTech news',
+  type: 'CHANNEL',
+  category: 'Technologie',
+  tags: '',
+  link: 't.me/fintech',
+  nbr: '1.39K'
+}
+{
+  n: 23,
+  name: 'Paris sportif Gagnant chat ACTIF ! ️',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: '',
+  link: 't.me/fullpronosafe',
+  nbr: '1.31K'
+}
+{
+  n: 24,
+  name: 'Pronostics gratuits 1xbet 🥳',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: '1xbet;pronostics;paris sportif;bet;paris en ligne',
+  link: 't.me/pronostics_gratuits_1xbet',
+  nbr: '335'
+}
+{
+  n: 25,
+  name: 'Citations,Citations anime et Proverbes',
+  type: 'CHANNEL',
+  category: 'Divertissement',
+  tags: 'citation;proverbe;manga;dicton;adage',
+  link: 't.me/stormofcitationsandproverbs',
+  nbr: '3.19K'
+}
+{
+  n: 26,
+  name: 'MONOPOLY CBET VIP',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'casino en ligne;argent facile;astuce;rentabilité',
+  link: 't.me/monopolyvipcbet',
+  nbr: '851'
+}
+{
+  n: 27,
+  name: 'PERFECT TRADING // Signaux gratuits',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'forex;trading;finance;signaux;crypto',
+  link: 't.me/signauxperfectrading',
+  nbr: '8.76K'
+}
+{
+  n: 28,
+  name: 'lechatongbot',
+  type: 'BOT',
+  category: 'Vidéos & Films',
+  tags: 'lechatonguniverse;film;série;anime',
+  link: 't.me/lechatongbot',
+  nbr: 'Je suis in Robot'
+}
+{
+  n: 29,
+  name: 'Paris Sportifs Faciles (gratuit) 🤙',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: 'paris sportifs;pronos;pronostics gratuit;paris',
+  link: 't.me/parissportifsfaciles',
+  nbr: '2K'
+}
+{
+  n: 30,
+  name: 'LA VERITE LIBERE ( Past. KASSEGNE)',
+  type: 'CHANNEL',
+  category: 'Développement personnel',
+  tags: 'bible;parole de dieu;parole vivante;mission gadh;adorer',
+  link: 't.me/missiongadh',
+  nbr: '310'
+}
+{
+  n: 31,
+  name: 'Parlons foot',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: 'parlonsfoot26',
+  link: 't.me/parlonsfoot26',
+  nbr: '20'
+}
+{
+  n: 32,
+  name: 'Washi no Animé',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/washinoanime',
+  nbr: '7.09K'
+}
+{
+  n: 33,
+  name: 'Coronalol',
+  type: 'CHANNEL',
+  category: 'Divertissement',
+  tags: 'coronavirus;humour;drole;communauté;neurchi',
+  link: 't.me/coronaviruslol',
+  nbr: '612'
+}
+{
+  n: 34,
+  name: 'Téléréalité',
+  type: 'CHANNEL',
+  category: 'Divertissement',
+  tags: 'téléréalité',
+  link: 't.me/telerealite',
+  nbr: '431'
+}
+{
+  n: 35,
+  name: 'Livre audio partage',
+  type: 'CHANNEL',
+  category: 'Livres & Magazine',
+  tags: '',
+  link: 't.me/livreaudiopartager',
+  nbr: '1.85K'
+}
+{
+  n: 36,
+  name: 'SMS PRONO Officiel SCORE EXACT FOOT et FIFA 🥇VIP',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: 'arnaque sur 1xbet;sur le net',
+  link: 't.me/smsprono',
+  nbr: '4.35K'
+}
+{
+  n: 37,
+  name: 'Comédie-Memes Archive™',
+  type: 'CHANNEL',
+  category: 'Divertissement',
+  tags: 'comedie telegram;archive team',
+  link: 't.me/comedie_memes_archive',
+  nbr: '5.5K'
+}
+{
+  n: 38,
+  name: 'Naevera 4 Amazing Trade',
+  type: 'GROUPE',
+  category: 'Economics & Finance',
+  tags: 'naevera;amazing trade;gold;pétrole;nasdq',
+  link: 't.me/naevera4_amazing_trade',
+  nbr: '56'
+}
+{
+  n: 39,
+  name: 'Mr X',
+  type: 'CHANNEL',
+  category: 'Art & Design',
+  tags: '',
+  link: 't.me/stl_argentinos_gratis',
+  nbr: '1.22K'
+}
+{
+  n: 40,
+  name: 'InfoTuto Pour programmation et hack',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: '',
+  link: 't.me/kahinfotuto',
+  nbr: '8.09K'
+}
+{
+  n: 41,
+  name: 'THE Trading Template',
+  type: 'CHANNEL',
+  category: 'Crypto-monnaies',
+  tags: '',
+  link: 't.me/fxkillertemplate',
+  nbr: '292'
+}
+{
+  n: 42,
+  name: 'NFT France',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'nft;crypto;trading;nonfungibletoken;art',
+  link: 't.me/nftfrance',
+  nbr: '1.73K'
+}
+{
+  n: 43,
+  name: 'Telegram Archive™',
+  type: 'CHANNEL',
+  category: 'Telegram',
+  tags: 'partage de lien;lien telegram;echange de pub',
+  link: 't.me/lienstelegramm_archives',
+  nbr: '4.57K'
+}
+{
+  n: 44,
+  name: 'IRON UNITY™',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: 'trading;cryptomonnaies;business;cours gratuits',
+  link: 't.me/iron_unity',
+  nbr: '689'
+}
+{
+  n: 45,
+  name: 'ACADEMIA',
+  type: 'CHANNEL',
+  category: 'Éducation',
+  tags: '',
+  link: 't.me/academiagabon',
+  nbr: '1.02K'
+}
+{
+  n: 46,
+  name: '𝐆𝐀𝐌𝐄𝐒 𝐏𝐒𝐏 𝐞𝐭 𝐀𝐧𝐝𝐫𝐨𝐢𝐝 𝐚 𝐆𝐎𝐆𝐎',
+  type: 'CHANNEL',
+  category: 'Jeux & Applications',
+  tags: '',
+  link: 't.me/issale10',
+  nbr: '2.91K'
+}
+{
+  n: 47,
+  name: 'Cartoon-Comics-Disney Archive™',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'cartoon;comics;disney;animation;manga;dessin animé',
+  link: 't.me/ccd_archive',
+  nbr: '7.34K'
+}
+{
+  n: 48,
+  name: 'Aliexpress ꀘꍏꌩꈤꀸꍟꍟ ꌗꃅꂦꉣ - Hidden Links',
+  type: 'CHANNEL',
+  category: 'Boutique',
+  tags: 'aliexpress;hidden;links;hiddenlinks;kayndee',
+  link: 't.me/alikayndeeshop',
+  nbr: '86'
+}
+{
+  n: 49,
+  name: 'Animal Lovers',
+  type: 'CHANNEL',
+  category: 'Animaux',
+  tags: 'funny;animaux;zoo;animal',
+  link: 't.me/animallovers2025',
+  nbr: '89'
+}
+{
+  n: 50,
+  name: 'Sciences & Vie',
+  type: 'CHANNEL',
+  category: 'Science',
+  tags: 'sciences;biologie;physique;nature;vidéo',
+  link: 't.me/sciencesetvie',
+  nbr: '1K'
+}
+{
+  n: 51,
+  name: 'Journaux et Magazines',
+  type: 'CHANNEL',
+  category: 'Livres & Magazine',
+  tags: 'ebook;magazine;journal;journaux',
+  link: 't.me/ebookfrancais',
+  nbr: '445'
+}
+{
+  n: 52,
+  name: 'ICI Les Paris Sportif Gagnant ACTIF ️ ️ ️',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'paris sportif;betting;bet;foot;football',
+  link: 't.me/fullpronosafechannel',
+  nbr: '1K'
+}
+{
+  n: 53,
+  name: 'Paris Sportifs',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'paris sportifs;sports;football;basketball',
+  link: 't.me/parissportifs',
+  nbr: '2.47K'
+}
+{
+  n: 54,
+  name: 'Exclu',
+  type: 'CHANNEL',
+  category: 'Musique',
+  tags: 'rap;exclu;news;album',
+  link: 't.me/exclun',
+  nbr: '373'
+}
+{
+  n: 55,
+  name: 'Fixed Football Betting',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'fixed;1xbet;paris sportifs;coupon;ticket',
+  link: 't.me/hotcoupon1x',
+  nbr: '226'
+}
+{
+  n: 56,
+  name: 'New Music (SONG & ALBUM) ️',
+  type: 'CHANNEL',
+  category: 'Musique',
+  tags: '',
+  link: 't.me/newmu_ic',
+  nbr: '904'
+}
+{
+  n: 57,
+  name: "StunamiPronos™ Groupe d'entraide ( Gratuit )",
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: 'paris sportif;betting;entraide;groupe;actif',
+  link: 't.me/parissportif2k',
+  nbr: '353'
+}
+{
+  n: 58,
+  name: 'Canal + Cinéma',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/canal_cinema',
+  nbr: '1.41K'
+}
+{
+  n: 59,
+  name: 'Technologies France',
+  type: 'CHANNEL',
+  category: 'Technologie',
+  tags: 'technologie;hightech;innovation;programmation;informatique',
+  link: 't.me/technologiesfrance',
+  nbr: '804'
+}
+{
+  n: 60,
+  name: 'Le Figaro: News',
+  type: 'CHANNEL',
+  category: 'News & Media',
+  tags: '',
+  link: 't.me/lefigaronews',
+  nbr: '625'
+}
+{
+  n: 61,
+  name: 'Reggae/Riddim/Dancehall',
+  type: 'CHANNEL',
+  category: 'Musique',
+  tags: '',
+  link: 't.me/lovereggaeriddimdancehall',
+  nbr: '1.56K'
+}
+{
+  n: 62,
+  name: 'TradeMeAway - Free Forex Signals 🇫🇷',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'forex;signals;free;trademeaway;trading',
+  link: 't.me/trademeaway',
+  nbr: '926'
+}
+{
+  n: 63,
+  name: 'Espace Médical',
+  type: 'CHANNEL',
+  category: 'Science',
+  tags: '',
+  link: 't.me/esculape',
+  nbr: '2.08K'
+}
+{
+  n: 64,
+  name: '🤣ᕼᑌᗰᝪᑌᖇ Ꭲᝪᑌᒍᝪᑌᖇᔑ🤣',
+  type: 'GROUPE',
+  category: 'Divertissement',
+  tags: '',
+  link: 't.me/humourtoujours',
+  nbr: '5.98K'
+}
+{
+  n: 65,
+  name: 'EnTrade - Public ️',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'apprendre;trading;signaux;gratuit;formation',
+  link: 't.me/entrade_public',
+  nbr: '405'
+}
+{
+  n: 66,
+  name: 'My_IPTV_Official',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'iptv;television;videos;internet;series',
+  link: 't.me/myiptvofficial',
+  nbr: '820'
+}
+{
+  n: 67,
+  name: 'FUEL OF SUCCESS',
+  type: 'CHANNEL',
+  category: 'Développement personnel',
+  tags: '',
+  link: 't.me/fuelofsuccess',
+  nbr: '693'
+}
+{
+  n: 68,
+  name: 'Afrique Africa',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: 'afro',
+  link: 't.me/afriqueafrica',
+  nbr: '542'
+}
+{
+  n: 69,
+  name: 'Coronavirus France',
+  type: 'CHANNEL',
+  category: 'News & Media',
+  tags: 'coronavirus;sars cov 2;covid 19;virus;actualité',
+  link: 't.me/coronavirusfrance',
+  nbr: '3.34K'
+}
+{
+  n: 70,
+  name: 'Parlons ensemble Chat',
+  type: 'GROUPE',
+  category: 'Divertissement',
+  tags: '',
+  link: 't.me/prlnse',
+  nbr: '228'
+}
+{
+  n: 71,
+  name: 'Les Hackers Du Web',
+  type: 'CHANNEL',
+  category: 'Crypto-monnaies',
+  tags: 'crypto;bitcoin;doubleur;argent;tic',
+  link: 't.me/leshackersduweb',
+  nbr: '3.1K'
+}
+{
+  n: 72,
+  name: 'Free Music Download',
+  type: 'CHANNEL',
+  category: 'Musique',
+  tags: '',
+  link: 't.me/mrtmusiczone',
+  nbr: '889'
+}
+{
+  n: 73,
+  name: 'TOUS POUR LE WEB',
+  type: 'CHANNEL',
+  category: 'Affaires & Startups',
+  tags: '',
+  link: 't.me/touspourleweb',
+  nbr: '755'
+}
+{
+  n: 74,
+  name: 'LeChatongUniverseV2',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'lechatong;films;série;netflix;anime',
+  link: 't.me/lechatonguniverse2',
+  nbr: '2.5K'
+}
+{
+  n: 75,
+  name: 'Aliexpress & Dhgate / Hidden Links / Liens Cachés Random Deal Alikay',
+  type: 'CHANNEL',
+  category: 'Boutique',
+  tags: 'aliexpress;hiddenlinks;lienscachés;hidden;links',
+  link: 't.me/aliexpressrandom',
+  nbr: '655'
+}
+{
+  n: 76,
+  name: 'Bonnes Affaires au Cameroun',
+  type: 'GROUPE',
+  category: 'Autre',
+  tags: '',
+  link: 't.me/bonnesaffairescameroun',
+  nbr: '1.25K'
+}
+{
+  n: 77,
+  name: 'Conflits et Evènements du Monde',
+  type: 'CHANNEL',
+  category: 'News & Media',
+  tags: 'conflits;monde;internationale;guerre;climat',
+  link: 't.me/franceinformation',
+  nbr: '1.36K'
+}
+{
+  n: 78,
+  name: 'Winamax V.I.P Public ️',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'pari;foot;1xbet;odds;sport;basketball',
+  link: 't.me/winamax_vip',
+  nbr: '55'
+}
+{
+  n: 79,
+  name: 'Marketing Divergent',
+  type: 'CHANNEL',
+  category: 'Marketing',
+  tags: 'marketing;divergent;sebastien cycyk;business online;inforpreneur',
+  link: 't.me/marketingdivergent',
+  nbr: '186'
+}
+{
+  n: 80,
+  name: 'CINE+A LA DEMANDE. NETFILX, Films, séries,',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'films;série;netflix',
+  link: 't.me/filmserie_fr',
+  nbr: '565'
+}
+{
+  n: 81,
+  name: 'Cash Mail System + =🤩🤑',
+  type: 'CHANNEL',
+  category: 'Marketing',
+  tags: 'money;cash;business',
+  link: 't.me/gagner500eurosparmois',
+  nbr: '729'
+}
+{
+  n: 82,
+  name: 'Crypto Trading France ™ 🇫🇷',
+  type: 'GROUPE',
+  category: 'Crypto-monnaies',
+  tags: '',
+  link: 't.me/cryptotradingfrance',
+  nbr: '1.05K'
+}
+{
+  n: 83,
+  name: 'OLPHA TRADING',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: '',
+  link: 't.me/olphatrading',
+  nbr: '248'
+}
+{
+  n: 84,
+  name: 'Motiv & Action',
+  type: 'CHANNEL',
+  category: 'Développement personnel',
+  tags: '',
+  link: 't.me/mrkondomotivaction',
+  nbr: '1.31K'
+}
+{
+  n: 85,
+  name: 'E-entrepreneur',
+  type: 'CHANNEL',
+  category: 'Éducation',
+  tags: 'business;argent;internet;entrepreneur;ligne',
+  link: 't.me/aimelentrepreneur',
+  nbr: '154'
+}
+{
+  n: 86,
+  name: 'FLOUVAPS PRONOSTICS',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: '',
+  link: 't.me/milliodkfjzixjcj',
+  nbr: '924'
+}
+{
+  n: 87,
+  name: 'WorlD AnimAtion BoX',
+  type: 'GROUPE',
+  category: 'Vidéos & Films',
+  tags: '',
+  link: 't.me/mangabox',
+  nbr: '1.93K'
+}
+{
+  n: 88,
+  name: 'NBA_first | paris sportifs',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'nba;basket;argent;paris;unibet',
+  link: 't.me/nba_first',
+  nbr: '631'
+}
+{
+  n: 89,
+  name: '️YoshiPronos ️ Chat',
+  type: 'GROUPE',
+  category: 'Betting',
+  tags: 'pronos;paris sportif;chat gratuit;telegram;actif',
+  link: 't.me/pronosgratuitement',
+  nbr: '964'
+}
+{
+  n: 90,
+  name: 'ARCHIVE™ Channel',
+  type: 'CHANNEL',
+  category: 'Autre',
+  tags: '',
+  link: 't.me/archive_team_channel',
+  nbr: '2.98K'
+}
+{
+  n: 91,
+  name: '༆ 𝐀𝐧𝐢𝐦𝐞𝐬 𝐙𝐨𝐧𝐞™ ༆',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'anime;videos;animes;zone;divertissement',
+  link: 't.me/animeszone',
+  nbr: '29.33K'
+}
+{
+  n: 92,
+  name: 'LeChatongUniverse',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'lechatonguniverse;lechatong;anime;films;série',
+  link: 't.me/lechatonguniverse',
+  nbr: '3.8K'
+}
+{
+  n: 93,
+  name: 'LES PARIEURS DU MONDE',
+  type: 'CHANNEL',
+  category: 'Betting',
+  tags: 'paris sportifs;gagner de l argent',
+  link: 't.me/les_parieurs_du_monde',
+  nbr: '2.49K'
+}
+{
+  n: 94,
+  name: '️ Simple-Iptv',
+  type: 'CHANNEL',
+  category: 'Vidéos & Films',
+  tags: 'iptv',
+  link: 't.me/simple_iptv',
+  nbr: '456'
+}
+{
+  n: 95,
+  name: 'Créer son business',
+  type: 'CHANNEL',
+  category: 'Affaires & Startups',
+  tags: 'business;entreprendre;entreprenariat;gagner de l argent;vendre',
+  link: 't.me/creersonbusiness',
+  nbr: '1.21K'
+}
+{
+  n: 96,
+  name: 'FORMATION VIDEO PROFESSIONNELLE',
+  type: 'CHANNEL',
+  category: 'Technologie',
+  tags: '',
+  link: 't.me/tutofacile',
+  nbr: '364'
+}
+{
+  n: 97,
+  name: 'Coronavidéos & photos',
+  type: 'CHANNEL',
+  category: 'News & Media',
+  tags: 'coronavirus;actualité;vidéo;photos;france',
+  link: 't.me/coronavirusmedia',
+  nbr: '1.21K'
+}
+{
+  n: 98,
+  name: 'Aliexpress / Dhgate / Ebay / Ioffer / Hidden Links Alikay',
+  type: 'CHANNEL',
+  category: 'Boutique',
+  tags: 'aliexpress;hiddenlinks;hidden links;liens cachés',
+  link: 't.me/alikayluxuryshop',
+  nbr: '1.44K'
+}
+{
+  n: 99,
+  name: 'Economie & Finance',
+  type: 'CHANNEL',
+  category: 'Economics & Finance',
+  tags: 'economie;finance;bourse;bitcoin;actualité',
+  link: 't.me/economiefinance',
+  nbr: '1.02K'
+}
+{
+  n: 100,
+  name: 'Learn Flutter',
+  type: 'GROUPE',
+  category: 'Éducation',
+  tags: 'flutter;dart;android;ios;flutterweb',
+  link: 't.me/onprogrammeflutter237',
+  nbr: '169'
+}
